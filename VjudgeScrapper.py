@@ -1,3 +1,7 @@
+# Arnab Sen Sharma (arnab-api)
+# Lecturer, Department of CSE
+# Shahjalal University of Science and Technology
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
